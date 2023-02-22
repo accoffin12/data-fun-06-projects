@@ -10,7 +10,7 @@ To complete two exploritary data analysis projects using python skills obtained 
 * Importing CSV with pandas
 * Using DataFrames
 * Series methods, including unique()
-* Histograms with matplotlib
+* Histograms
 
 2. Formula 1 Speed and Performance:
 * Answering questions relating to performance:
@@ -19,7 +19,9 @@ To complete two exploritary data analysis projects using python skills obtained 
         * Drivers
 * Importing, manipulating, and utilizing CSV files
 * DataFrames: describe, unique, value counts, filtering data
+* Utilizing statistical functions
 * Several plots utilizing Seaborn
 * F strings
 * use of Len(), Lists, Groupby
+* Analysizing and interpreting data
 
