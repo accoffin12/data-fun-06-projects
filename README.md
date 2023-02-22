@@ -1,5 +1,8 @@
 Alexandra Coffin 
-Data Analytics Fundementals Project 6
+Data Analytics Fundementals 
+Dr. Case
+2023/2/21
+Project 6
 
 Domain: Formula 1
 
